@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/img/team/12.png",
+    "name": "Ahmed NAOUM",
+    "title": "CEO"
+  },
+  {
+    "id": 2,
+    "image": "/img/team/01.png",
+    "name": "Abderrahim ACHEBAN",
+    "title": "CTO"
+  },
+  {
+    "id": 3,
+    "image": "/img/team/05.png",
+    "name": "Abdelali ZAGUIN",
+    "title": "Co-Founder"
+  },
+  {
+    "id": 4,
+    "image": "/img/team/08.png",
+    "name": "Mohammed ELOTHMANI",
+    "title": "Chief Commercial"
+  }
+]
